@@ -65,6 +65,8 @@ features:
     theme_dark: dracula
   math:
     enable: true
+  markdown:
+    enable: true
   privacy_pack:
     enable: false
   repository:
