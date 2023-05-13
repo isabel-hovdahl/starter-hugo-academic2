@@ -39,16 +39,12 @@ sections:
  #     view: compact
  #     columns: '2'
   - block: collection
-    id: featured
-    content:
-      title: Working papers
+   content:
+     title: Working papers
       filters:
         folders:
-          - working-papers
-        featured_only: false
-    design:
-      columns: '2'
-      view: list
+          - publication
+        include_featured: true
   - block: collection
     content:
       title: Recent Publications
