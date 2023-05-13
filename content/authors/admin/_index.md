@@ -32,7 +32,7 @@ education:
     - course: PhD in Economics
       institution: NTNU
       year: 2020
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
