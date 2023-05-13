@@ -2,7 +2,7 @@
 title: Patent Protection and the Transition to Clean Technology
 publication_types:
   - "3"
-authors: [*Maria Alsina-Pujols*, admin]
+authors: ["*Maria Alsina-Pujols*", admin]
 abstract: "It has proven to be a challenging task for policymakers to implement
   sufficiently high carbon taxes and public funding of research to induce the
   transition to clean technology. This calls for the exploration of alternative
