@@ -1,6 +1,7 @@
 ---
 title: Isabel Hovdahl
 role: Assistant professor
+avatar_filename: ntnu_isø_007_crop.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
