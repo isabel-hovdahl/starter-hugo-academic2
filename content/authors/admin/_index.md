@@ -25,7 +25,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: NHH
+  - name: NHH Norwegian School of Economics
     url: https://www.nhh.no/en/
 education:
   courses:
