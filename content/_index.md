@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Selected work-in-progress
       filters:
         folders:
           - publication
