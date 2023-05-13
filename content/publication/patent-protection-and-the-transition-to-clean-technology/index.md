@@ -23,7 +23,7 @@ abstract: "It has proven to be a challenging task for policymakers to implement
   short-run. In addition, we find potentially large welfare gains from using
   patent protection as a policy tool when traditional environmental policy is
   constrained. "
-draft: true
+draft: false
 featured: true
 image:
   filename: ""
