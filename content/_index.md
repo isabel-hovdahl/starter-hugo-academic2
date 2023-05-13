@@ -44,7 +44,7 @@ sections:
       title: Working papers
       filters:
         folders:
-          - working_papers
+          - working-papers
         featured_only: false
     design:
       columns: '2'
