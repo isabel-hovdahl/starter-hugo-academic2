@@ -39,12 +39,12 @@ sections:
  #     view: compact
  #     columns: '2'
   - block: markdown
-    id: 'current'
+    id: current
     content:
-      title: 'Work in progress'
+      title: Work in progress
       text: Add text here
     design:
-      columns: '2
+      columns: '2'
   - block: collection
     id: featured
     content:
