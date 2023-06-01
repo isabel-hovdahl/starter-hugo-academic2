@@ -45,6 +45,21 @@ sections:
       text: Add text here
     design:
       columns: '2'
+  
+  
+  - block: collection
+    id: working
+    content:
+      title: Working papers
+      filters:
+        folders:
+          - working_papers
+        featured_only: true
+    design:
+      columns: '2'
+      view: list
+      
+      
   - block: collection
     id: featured
     content:
