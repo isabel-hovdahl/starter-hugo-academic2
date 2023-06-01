@@ -12,11 +12,11 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
   - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Isabel Hovdahl
+#author_notes:
+#  - Equal contribution
+#  - Equal contribution
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
