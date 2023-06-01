@@ -3,7 +3,7 @@ _build:
   render: always
 cascade:
   _build:
-    list: always
+    list: never
     render: never
 cms_exclude: true
 ---
