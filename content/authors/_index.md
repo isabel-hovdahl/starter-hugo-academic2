@@ -4,6 +4,6 @@ _build:
 cascade:
   _build:
     list: always
-    render: never
+    render: always
 cms_exclude: true
 ---
